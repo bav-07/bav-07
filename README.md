@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bav-07&label=Profile%20views&color=0e75b6&style=flat" alt="bav-07" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bav-07&no-frame=true&theme=radical&row=2&column=3&rank=AA,S,SS,SSS,SECRET" alt="bav-07" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bav-07&no-frame=true&theme=radical&row=2&column=3&rank=AA,AAA,S,SS,SSS,SECRET" alt="bav-07" /></a> </p>
 
 - 🧑🏾‍💻 I’m currently working on **Kabutops Trumps**, a web-based Pokemon Card Battle game featuring "Top Trumps" style gameplay
 
