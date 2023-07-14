@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Bav 👋🏾</h1>
-<h3 align="center">I'm a graduate mechanical engineer, and aspiring full-stack developer, based in London, UK</h3>
+<h3 align="center">I'm a full-stack developer, based in London, UK</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bav-07&label=Profile%20views&color=0e75b6&style=flat" alt="bav-07" /> </p>
 
