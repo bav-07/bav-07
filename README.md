@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Tailwind and Next.js**
 
-- 💼 All of my projects are available at [https://bav-07.github.io/my_portfolio/](https://bav-07.github.io/my_portfolio/)
+- 💼 My projects are available at [https://bav-07.github.io/my_portfolio/](https://bav-07.github.io/my_portfolio/)
 
-- 💬 Hit me up if you want to work on something together - I want to collaborate on cool and exciting projects!
+- 💬 Hit me up if you want to work on something together - let's collaborate on cool and exciting projects!
 
 - 📭 Reach me at: **bavaharsan.nagarajah@gmail.com**
 
