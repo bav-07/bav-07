@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bav-07&no-frame=true&theme=radical&row=2&column=3&rank=AA,AAA,S,SS,SSS,SECRET" alt="bav-07" /></a> </p>
 
-- 🧑🏾‍💻 I’m currently working on **Kabutops Trumps**, a web-based Pokemon Card Battle game featuring "Top Trumps" style gameplay
+- 🧑🏾‍💻 I’m currently working on high-profile pages on the Sky.com estate
 
-- 🌱 I’m currently learning **Tailwind and Next.js**
+- 🌱 I’m currently learning **Python/Flask API development**
 
-- 💼 My projects are available at [https://bav-07.github.io/my_portfolio/](https://bav-07.github.io/my_portfolio/)
+- 💼 Check out my portfolio at [bavnagarajah.com](https://bavnagarajah.com)
 
 - 💬 Hit me up if you want to work on something together - let's collaborate on cool and exciting projects!
 
