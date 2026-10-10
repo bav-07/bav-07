@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bav-07&no-frame=true&theme=radical&row=2&column=3&rank=AA,AAA,S,SS,SSS,SECRET" alt="bav-07" /></a> </p>
 
-- 🧑🏾‍💻 I’m currently working on high-profile pages on the Sky.com estate
+- 🧑🏾‍💻 I’m currently working at Expedia Group
 
 - 🌱 I’m currently learning **Python/Flask API development**
 
